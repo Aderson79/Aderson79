@@ -1,9 +1,9 @@
 # 💻 Aderson J. Mesquita
 
 ## 🚀 Sobre Mim  
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e inovação. Atualmente, curso **Engenharia de Software** e possuo uma base sólida em diversas áreas da computação, como **estrutura de dados, algoritmos, redes de computadores, sistemas embarcados** e muito mais.  
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e inovação. Atualmente, curso **Engenharia de Software** e possuo uma base sólida em diversas áreas da computação, como **estrutura de dados, algoritmos, redes de computadores, bancode dados** e muito mais.  
 
-Fui **aprovado em primeiro lugar geral** no curso de **Engenharia de Computação** na Universidade Federal de Sergipe, um marco que demonstra minha dedicação e esforço na área acadêmica.  
+Fui **aprovado em 1º lugar geral** no curso de **Engenharia de Computação** na **Universidade Federal de Sergipe**, um marco que demonstra minha dedicação e esforço na área acadêmica.  
 
 Tenho habilidades de **comunicação clara**, excelente **oratória** e **capacidade de liderança**, além de uma forte determinação para vencer desafios. Também possuo **proeficiência em inglês nível B2**, o que me permite trabalhar com equipes internacionais e absorver conteúdos técnicos de alto nível sem barreiras.  
 
@@ -13,26 +13,26 @@ Tenho habilidades de **comunicação clara**, excelente **oratória** e **capaci
 
 <p align="left">
   <!-- Devicon (stack principal) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="SQL / MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="SQL / MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
 
   <!-- Simple Icons (serviços / ferramentas) -->
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="36" alt="Supabase" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="36" alt="Upstash / Redis" />
-  <img src="https://cdn.simpleicons.org/sentry/362D59" height="36" alt="Sentry" />
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="50" alt="Upstash / Redis" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" height="50" alt="Sentry" />
 </p>
 
 
