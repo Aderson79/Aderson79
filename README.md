@@ -8,25 +8,45 @@ Fui **aprovado em primeiro lugar geral** no curso de **Engenharia de Computaçã
 Tenho habilidades de **comunicação clara**, excelente **oratória** e **capacidade de liderança**, além de uma forte determinação para vencer desafios. Também possuo **proeficiência em inglês nível B2**, o que me permite trabalhar com equipes internacionais e absorver conteúdos técnicos de alto nível sem barreiras.  
 
 
----
 
 ## 🔧 Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<p align="left">
+  <!-- Devicon (stack principal) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="SQL / MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+
+  <!-- Simple Icons (serviços / ferramentas) -->
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="36" alt="Supabase" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" height="36" alt="Upstash / Redis" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" height="36" alt="Sentry" />
+</p>
 
 
-- **Linguagens:** C, Python, JavaScript, Haskell
-- **Frameworks:** React, Flutter
-- **Banco de Dados:** MongoDB
 
----
+## AWS Badges
+
+<p align="left">
+  <a href="https://www.credly.com/earner/earned/badge/78afe5af-36e4-4e4a-ae48-ec2c7c0ff49a" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/8a28a66c-151d-4f2d-b021-ca7d3e146437/blob" alt="Credly Badge 1" width="130" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/db31f51f-f6a7-4f2a-82a7-549778962f00" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" alt="Credly Badge 2" width="130" />
+  </a>
+</p>
+
 
 ## 💡 Projetos Destacados
 ### ✅ Sistema de Reconhecimento Facial para Controle de Ponto  
