@@ -1,7 +1,7 @@
 # 💻 Aderson J. Mesquita
 
 ## 🚀 Sobre Mim  
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e inovação. Atualmente, curso **Engenharia de Software** e possuo uma base sólida em diversas áreas da computação, como **estrutura de dados, algoritmos, redes de computadores, bancode dados** e muito mais.  
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e inovação. Atualmente, curso **Engenharia de Software** e possuo uma base sólida em diversas áreas da computação, como **estrutura de dados, algoritmos, redes de computadores, banco de dados** e muito mais.  
 
 Fui **aprovado em 1º lugar geral** no curso de **Engenharia de Computação** na **Universidade Federal de Sergipe**, um marco que demonstra minha dedicação e esforço na área acadêmica.  
 
