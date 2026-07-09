@@ -61,7 +61,7 @@ Sistema completo (backend + frontend) para marcação de ponto via reconheciment
 - 🥇 Aprovado em **1º lugar geral** no vestibular de Engenharia de Computação (UFS)
 - ☁️ **3 certificações AWS Academy**, incluindo Machine Learning para NLP
 - 🏛️ Atuação simultânea em **órgão público (Secretaria de Justiça-PI)** e **empresa privada (Vero Solutions)**
-- 🗣️ Inglês Profissional — trabalho direto com conteúdo técnico internacional, equipes e documentação em inglês
+- 🗣️ Inglês Profissional — trabalho direto com conteúdo técnico internacional, equipes internacionais e documentação em inglês
 
  
 ## 📫 Contato
