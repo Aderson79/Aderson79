@@ -71,14 +71,3 @@ Sistema completo (backend + frontend) para marcação de ponto via reconheciment
 - 📧 Email: [meskytaaderson@hotmail.com](mailto:meskytaaderson@hotmail.com)
 Aberto a conversas sobre tecnologia, colaborações e novos desafios. 🚀
 
-
-
-📫 Contato
-
-
-💼 LinkedIn: Aderson Mesquita
-💻 GitHub: Aderson79
-📧 Email: meskytaaderson@hotmail.com
-
-
-Aberto a conversas sobre tecnologia, colaborações e novos desafios. 🚀
