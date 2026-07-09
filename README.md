@@ -69,5 +69,6 @@ Sistema completo (backend + frontend) para marcação de ponto via reconheciment
 - 💼 LinkedIn: [Aderson Mesquita](https://www.linkedin.com/in/aderson-mesquita-2bb208353/)
 - 💻 GitHub: [Aderson79](https://github.com/Aderson79)
 - 📧 Email: [meskytaaderson@hotmail.com](mailto:meskytaaderson@hotmail.com)
+  
 Aberto a conversas sobre tecnologia, colaborações e novos desafios. 🚀
 
