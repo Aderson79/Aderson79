@@ -52,8 +52,8 @@ Trabalho com todo o ciclo de desenvolvimento: **backend, frontend, banco de dado
 **Stack:** Python · MongoDB · JavaScript · React
 Sistema completo (backend + frontend) para marcação de ponto via reconhecimento facial, eliminando fraudes de ponto manual e automatizando o registro de presença.
  
-- 🔗 Backend/Banco de Dados: [FacialPoint-Banco-Dados](https://github.com/Erlandsonjr/FacialPoint-Banco-Dados)
-- 🔗 Frontend/Site: [FacialPoint-Site](https://github.com/Erlandsonjr/FacialPoint-Site)
+- 🔗 Backend/Banco de Dados: [FacialPoint-Banco-Dados](https://github.com/Aderson79/FacialPoint-Banco-Dados)
+- 🔗 Frontend/Site: [FacialPoint-Site](https://github.com/Aderson79/FacialPoint-Site)
 
  
 ## 🌟 Destaques Profissionais
