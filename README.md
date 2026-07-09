@@ -27,6 +27,10 @@ Tenho habilidades de **comunicação clara**, excelente **oratória** e **capaci
   <a href="https://www.credly.com/earner/earned/badge/db31f51f-f6a7-4f2a-82a7-549778962f00" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/size/340x340/images/727c2754-d727-4e27-a1aa-3de2425ce239/blob" alt="Credly Badge 2" width="130" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/earner/earned/badge/365555a2-123e-4540-b09a-2ba95bee2357" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/size/340x340/images/683b2e3c-0d28-42a2-ab84-7203a209f9d0/blob" alt="Credly Badge 3 - AWS Academy Graduate: Machine Learning for Natural Language Processing" width="130" />
+  </a>
 </p>
 
 
