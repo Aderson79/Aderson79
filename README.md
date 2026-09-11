@@ -1,5 +1,5 @@
 # 💻 Aderson J. Mesquita
-### Engenheiro de Software | Secretaria de Justiça do Estado do Piauí & Vero Solutions
+### Engenheiro de Software | Grupo Ora & Vero Solutions
  
 <p align="left">
   <a href="https://www.linkedin.com/in/aderson-mesquita-2bb208353/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,9 +14,9 @@
  
 ## 🚀 Sobre Mim
  
-Engenheiro de Software atuando atualmente na **Secretaria de Justiça do Estado do Piauí** e na **Vero Solutions**, desenvolvendo soluções full-stack e com IA generativa para clientes reais. Cursando **Engenharia de Software**, com aprovação em **1º lugar geral** no vestibular de Engenharia de Computação da **Universidade Federal de Sergipe** — resultado direto de disciplina e consistência, os mesmos princípios que aplico em código.
+Engenheiro de Software atuando atualmente no **Grupo Ora** e na **Vero Solutions**, desenvolvendo soluções full-stack e com IA generativa para clientes reais. Cursando **Engenharia de Software**, com aprovação em **1º lugar geral** no vestibular de Engenharia de Computação da **Universidade Federal de Sergipe** — resultado direto de disciplina e consistência, os mesmos princípios que aplico em código.
  
-Trabalho com todo o ciclo de desenvolvimento: **backend, frontend, banco de dados e infraestrutura em nuvem (AWS)**. Tenho interesse particular em **sistemas com IA aplicada e arquiteturas escaláveis**.
+Trabalho com todo o ciclo de desenvolvimento: **backend, frontend, banco de dados, infraestrutura em nuvem (AWS) e IA generativa**. Tenho interesse particular em **sistemas com IA aplicada e arquiteturas escaláveis**.
  
 📍 Brasil | 🗣️ Inglês Profissional | 🤝 Aberto a networking e novos desafios
  
@@ -45,17 +45,7 @@ Trabalho com todo o ciclo de desenvolvimento: **backend, frontend, banco de dado
   </a>
 </p>
 
- 
-## 💡 Projetos Destacados
- 
-### ✅ Sistema de Reconhecimento Facial para Controle de Ponto
-**Stack:** Python · MongoDB · JavaScript · React
-Sistema completo (backend + frontend) para marcação de ponto via reconhecimento facial, eliminando fraudes de ponto manual e automatizando o registro de presença.
- 
-- 🔗 Backend/Banco de Dados: [FacialPoint-Banco-Dados](https://github.com/Aderson79/FacialPoint-Banco-Dados)
-- 🔗 Frontend/Site: [FacialPoint-Site](https://github.com/Aderson79/FacialPoint-Site)
 
- 
 ## 🌟 Destaques Profissionais
  
 - 🥇 Aprovado em **1º lugar geral** no vestibular de Engenharia de Computação (UFS)
