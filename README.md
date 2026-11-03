@@ -66,7 +66,7 @@ Most of my work lives in private repositories. At **Grupo Ora** I build the syst
 <img src="./assets/h-stats.svg" width="900" alt="GitHub stats" />
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aderson79&hide_border=true&background=1A1B27&hide_current_streak=true&hide_longest_streak=true&card_width=300&disable_animations=true&sideNums=00E5FF&sideLabels=8FB4D9&dates=8FB4D9" alt="Total GitHub contributions" width="300" />
+  <img src="./assets/contributions.svg" alt="Total GitHub contributions" width="410" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aderson79&theme=tokyonight" alt="Top languages by repository" width="390" />

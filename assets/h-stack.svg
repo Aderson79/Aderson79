@@ -11,12 +11,12 @@
 <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
 </filter>
 <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" opacity=".035"/></pattern>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#16285C" stroke-width="1"/></pattern>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#323844" stroke-width="1"/></pattern>
 
 </defs>
 <style></style>
 <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset=".6" stop-color="#2F6BFF" stop-opacity=".5"/><stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/></linearGradient>
-<rect width="900" height="68" rx="10" fill="#060A1A"/>
+<rect width="900" height="68" rx="10" fill="#1B1E24"/>
 <rect width="900" height="68" rx="10" fill="url(#scan)"/>
 <rect x="22" y="20" width="5" height="28" fill="#00E5FF" filter="url(#soft)"/>
 <path d="M52.9 26.9H46.5V23.3H63.6V26.9H57.2V45H52.9ZM62.9 41.8V32.8L66.1 29.6H74.8L78 32.8V38.6H67V40.6L67.9 41.7H73L73.9 40.7V39.9H78V41.9L74.9 45H66ZM73.9 35.8V34L72.8 32.9H68L67 34V35.8ZM80.9 41.8V32.7L84.1 29.6H92.6L95.8 32.8V35.6H91.7V34.1L90.6 33H86.1L85 34.1V40.4L86.1 41.5H90.6L91.7 40.4V38.9H95.8V41.8L92.6 45H84.1ZM98.5 22.9H102.6V31.9L105 29.6H110L113.4 33V45H109.3V34.1L108.2 33H105.6L102.6 36V45H98.5ZM124.6 42V40.1H128.6V40.9L129.3 41.7H134.3L135 40.9V39.6L134.3 38.9H127.7L124.7 35.9V32.5L127.7 29.6H135.7L138.8 32.6V34.5H134.7V33.6L134 32.9H129.5L128.8 33.6V34.8L129.5 35.6H136.1L139.1 38.5V42L136.1 45H127.6ZM143.4 41.8V33H140.6V29.6H143.5V24.5H147.5V29.6H152.2V33H147.5V40.5L148.5 41.5H152.2V45H146.6ZM154.4 42.1V38.6L157.2 35.8H165.1V33.8L164.1 32.8H159.5L158.5 33.8V34.7H154.5V32.9L157.8 29.6H165.8L169.1 32.9V45H165.4V42.8L163.1 45H157.2ZM162.8 41.8 165.1 39.7V38.7H159.2L158.4 39.5V41.1L159.2 41.8ZM172.4 41.8V32.7L175.5 29.6H184L187.2 32.8V35.6H183.1V34.1L182 33H177.5L176.4 34.1V40.4L177.5 41.5H182L183.1 40.4V38.9H187.2V41.8L184 45H175.5ZM190 22.9H194.1V35.2H196.8L200.7 29.6H205.2L200.1 37L205.5 45H201L196.7 38.7H194.1V45H190Z" fill="#E3FBFF" filter="url(#soft)"/>

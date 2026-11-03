@@ -11,12 +11,12 @@
 <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
 </filter>
 <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" opacity=".035"/></pattern>
-<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#16285C" stroke-width="1"/></pattern>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#323844" stroke-width="1"/></pattern>
 
 </defs>
 <style></style>
 <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset=".6" stop-color="#2F6BFF" stop-opacity=".5"/><stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/></linearGradient>
-<rect width="900" height="68" rx="10" fill="#060A1A"/>
+<rect width="900" height="68" rx="10" fill="#1B1E24"/>
 <rect width="900" height="68" rx="10" fill="url(#scan)"/>
 <rect x="22" y="20" width="5" height="28" fill="#00E5FF" filter="url(#soft)"/>
 <path d="M54.1 23.3H57.9L65.9 45H61.6L59.8 40.2H52.2L50.4 45H46.2ZM58.9 36.7 56 28.5H56L53.2 36.7ZM67.7 41.7V22.9H71.8V31.7L74.1 29.6H79.7L82.9 32.8V41.8L79.7 45H71ZM77.7 41.5 78.8 40.3V34.2L77.7 33H74.6L71.8 35.8V40.3L73 41.5ZM86 41.8V32.8L89.2 29.6H98.1L101.3 32.8V41.8L98.1 45H89.2ZM96.1 41.6 97.2 40.5V34.1L96.1 33H91.2L90.1 34.1V40.5L91.2 41.6ZM104.5 41.7V29.6H108.6V40.5L109.7 41.5H112.2L115.2 38.5V29.6H119.3V45H115.5V42.4L112.8 45H107.8ZM124.4 41.8V33H121.6V29.6H124.5V24.5H128.5V29.6H133.2V33H128.5V40.5L129.5 41.5H133.2V45H127.6ZM144.3 29.6H148.1V32.1L150.6 29.6H154.5L156.6 31.7L158.7 29.6H164.1L167.4 32.9V45H163.3V34.1L162.2 33H159.6L158 34.7V45H154V34.1L153 33H151.2L148.4 35.9V45H144.3ZM170.7 41.8V32.8L173.8 29.6H182.6L185.8 32.8V38.6H174.7V40.6L175.7 41.7H180.8L181.7 40.7V39.9H185.7V41.9L182.7 45H173.8ZM181.7 35.8V34L180.6 32.9H175.8L174.7 34V35.8Z" fill="#E3FBFF" filter="url(#soft)"/>
