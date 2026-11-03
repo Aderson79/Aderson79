@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 68" width="900" height="68" role="img" aria-label="Let's talk">
+<defs>
+<filter id="glow" x="-10%" y="-60%" width="120%" height="220%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="5" result="b"/>
+<feFlood flood-color="#00E5FF" flood-opacity=".75"/><feComposite in2="b" operator="in" result="g"/>
+<feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="soft" x="-10%" y="-60%" width="120%" height="220%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="2.5" result="b"/>
+<feFlood flood-color="#00E5FF" flood-opacity=".8"/><feComposite in2="b" operator="in" result="g"/>
+<feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" opacity=".035"/></pattern>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#16285C" stroke-width="1"/></pattern>
+
+</defs>
+<style></style>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset=".6" stop-color="#2F6BFF" stop-opacity=".5"/><stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/></linearGradient>
+<rect width="900" height="68" rx="10" fill="#060A1A"/>
+<rect width="900" height="68" rx="10" fill="url(#scan)"/>
+<rect x="22" y="20" width="5" height="28" fill="#00E5FF" filter="url(#soft)"/>
+<path d="M48 23.3H52.2V41.4H63.1V45H48ZM64.6 41.8V32.8L67.8 29.6H76.5L79.8 32.8V38.6H68.7V40.6L69.7 41.7H74.8L75.7 40.7V39.9H79.7V41.9L76.7 45H67.8ZM75.7 35.8V34L74.6 32.9H69.8L68.7 34V35.8ZM84.4 41.8V33H81.6V29.6H84.5V24.5H88.5V29.6H93.2V33H88.5V40.5L89.6 41.5H93.2V45H87.6ZM95.4 26.8V23.3H99.6V26.8L99.1 31.4H95.9ZM101.8 42V40.1H105.8V40.9L106.5 41.7H111.5L112.2 40.9V39.6L111.5 38.9H104.8L101.9 35.9V32.5L104.8 29.6H112.9L115.9 32.6V34.5H111.9V33.6L111.2 32.9H106.6L105.9 33.6V34.8L106.6 35.6H113.3L116.2 38.5V42L113.3 45H104.8ZM129 41.8V33H126.2V29.6H129V24.5H133.1V29.6H137.8V33H133.1V40.5L134.1 41.5H137.8V45H132.2ZM140 42.1V38.6L142.8 35.8H150.7V33.8L149.7 32.8H145L144.1 33.8V34.7H140.1V32.9L143.4 29.6H151.4L154.7 32.9V45H151V42.8L148.7 45H142.8ZM148.4 41.8 150.7 39.7V38.7H144.8L144 39.5V41.1L144.8 41.8ZM158.4 22.9H162.5V45H158.4ZM166.4 22.9H170.5V35.2H173.2L177.1 29.6H181.6L176.5 37L181.9 45H177.4L173.1 38.7H170.5V45H166.4Z" fill="#E3FBFF" filter="url(#soft)"/>
+<path d="M206.1 34H830l8 -8h40" fill="none" stroke="url(#fade)" stroke-width="2"/>
+</svg>

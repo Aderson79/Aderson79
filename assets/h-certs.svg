@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 68" width="900" height="68" role="img" aria-label="AWS certifications">
+<defs>
+<filter id="glow" x="-10%" y="-60%" width="120%" height="220%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="5" result="b"/>
+<feFlood flood-color="#00E5FF" flood-opacity=".75"/><feComposite in2="b" operator="in" result="g"/>
+<feMerge><feMergeNode in="g"/><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="soft" x="-10%" y="-60%" width="120%" height="220%">
+<feGaussianBlur in="SourceAlpha" stdDeviation="2.5" result="b"/>
+<feFlood flood-color="#00E5FF" flood-opacity=".8"/><feComposite in2="b" operator="in" result="g"/>
+<feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#FFFFFF" opacity=".035"/></pattern>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#16285C" stroke-width="1"/></pattern>
+
+</defs>
+<style></style>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset=".6" stop-color="#2F6BFF" stop-opacity=".5"/><stop offset="1" stop-color="#2F6BFF" stop-opacity="0"/></linearGradient>
+<rect width="900" height="68" rx="10" fill="#060A1A"/>
+<rect width="900" height="68" rx="10" fill="url(#scan)"/>
+<rect x="22" y="20" width="5" height="28" fill="#00E5FF" filter="url(#soft)"/>
+<path d="M54.1 23.3H57.9L65.9 45H61.6L59.8 40.2H52.2L50.4 45H46.2ZM58.9 36.7 56 28.5H56L53.2 36.7ZM65.4 23.3H69.7L72.3 38.6H72.4L76.7 23.3H79.9L84.1 38.6H84.2L86.9 23.3H91.1L86.6 45H82.7L78.4 29.7H78.2L73.8 45H69.9ZM93.3 41.7V38.6H97.4V40.4L98.5 41.4H104.9L105.9 40.4V36.8L104.9 35.7H96.7L93.3 32.4V26.6L96.7 23.3H106.5L109.8 26.6V29.8H105.7V27.9L104.7 26.9H98.5L97.5 27.9V31.1L98.5 32.1H106.7L110.1 35.5V41.6L106.7 45H96.6ZM121.5 41.8V32.7L124.6 29.6H133.1L136.3 32.8V35.6H132.2V34.1L131.1 33H126.6L125.5 34.1V40.4L126.6 41.5H131.1L132.2 40.4V38.9H136.3V41.8L133.1 45H124.6ZM138.8 41.8V32.8L141.9 29.6H150.7L153.9 32.8V38.6H142.8V40.6L143.8 41.7H148.9L149.8 40.7V39.9H153.8V41.9L150.8 45H141.9ZM149.8 35.8V34L148.7 32.9H143.9L142.8 34V35.8ZM157.1 29.6H160.9V32.1L163.4 29.6H167.8V33H164.2L161.2 36.1V45H157.1ZM171.2 41.8V33H168.4V29.6H171.3V24.5H175.3V29.6H180V33H175.3V40.5L176.4 41.5H180V45H174.4ZM182.5 26.3V24.4L183.9 22.9H186.1L187.5 24.4V26.3L186.1 27.8H183.9ZM183 29.6H187.1V45H183ZM192.5 33H189.7V29.6H192.5V26.5L195.6 23.4H201.3V26.7H197.4L196.5 27.6V29.6H201.3V33H196.6V45H192.5ZM203.3 26.3V24.4L204.8 22.9H206.9L208.3 24.4V26.3L206.9 27.8H204.8ZM203.8 29.6H207.9V45H203.8ZM211.6 41.8V32.7L214.7 29.6H223.2L226.4 32.8V35.6H222.3V34.1L221.2 33H216.8L215.7 34.1V40.4L216.8 41.5H221.2L222.3 40.4V38.9H226.4V41.8L223.2 45H214.7ZM228.7 42.1V38.6L231.6 35.8H239.4V33.8L238.5 32.8H233.8L232.9 33.8V34.7H228.9V32.9L232.2 29.6H240.2L243.5 32.9V45H239.8V42.8L237.5 45H231.6ZM237.2 41.8 239.4 39.7V38.7H233.6L232.8 39.5V41.1L233.5 41.8ZM248.1 41.8V33H245.3V29.6H248.2V24.5H252.2V29.6H256.9V33H252.2V40.5L253.3 41.5H256.9V45H251.3ZM259.4 26.3V24.4L260.8 22.9H263L264.4 24.4V26.3L263 27.8H260.8ZM259.9 29.6H264V45H259.9ZM267.7 41.8V32.8L270.9 29.6H279.7L282.9 32.8V41.8L279.7 45H270.9ZM277.8 41.6 278.8 40.5V34.1L277.8 33H272.9L271.8 34.1V40.5L272.9 41.6ZM286.3 29.6H290.1V32.1L292.7 29.6H297.7L301.1 33V45H297V34.1L296 33H293.4L290.4 36V45H286.3ZM303.9 42V40.1H307.9V40.9L308.6 41.7H313.7L314.3 40.9V39.6L313.6 38.9H307L304 35.9V32.5L307 29.6H315L318.1 32.6V34.5H314V33.6L313.3 32.9H308.8L308.1 33.6V34.8L308.8 35.6H315.5L318.4 38.5V42L315.4 45H306.9Z" fill="#E3FBFF" filter="url(#soft)"/>
+<path d="M343.5 34H830l8 -8h40" fill="none" stroke="url(#fade)" stroke-width="2"/>
+</svg>
